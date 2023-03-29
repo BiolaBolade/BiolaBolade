@@ -11,7 +11,7 @@
 
 ## My Data Analytics Skillset:
 - Microsoft Excel
-- Power Bi
+- Power BI
 - SQL
 - Python
 
