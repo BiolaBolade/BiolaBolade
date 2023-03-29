@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋, my name is Abiola Abolade
+### I am a Data Analyst
 
-<!--
-**BiolaBolade/BiolaBolade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I assess, clean, and analyze data sets to provide insights and solve data-related problems
+- 🌱 I enjoy analyzing and visualizing data to make better and informed decisions
+- 👯 I’m looking to collaborate with other professionals in the field of data analytics and data science
+- 🤔 I’m looking for help with job oppportunities and collaborations
+- 💬 Ask me about data anaylytics
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love reading 
 
-Here are some ideas to get you started:
+## My Data Analytics Skillset:
+- Microsoft Excel
+- Power Bi
+- SQL
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- [x] [LinkedIn](https://www.linkedin.com/in/abolade-s-abiola-13763418b/) 
+- [x] [Twitter](https://twitter.com/BiolaBolade)
+- [x] [Medium](https://medium.com/@abiolaabolade1)
