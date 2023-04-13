@@ -3,7 +3,7 @@
 <!-- Animation Typing -->
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=My+Name+Is+Abiola+Abolade.;I+am+a+Data+Analyst;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=My+Name+Is+Abiola+Abolade,;I+am+a+Data+Analyst.;"></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -39,3 +39,5 @@
    </p>
    
  <!-- Conecct section: END -->
+
+<!---giflink(https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif)--->
