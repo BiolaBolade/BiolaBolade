@@ -10,7 +10,7 @@
 
 
 <!--Image Gif-->
-<img  src="https://media.tenor.com/A5eDh9nWrqYAAAAd/working-from.gif" height="290px" align="right" />
+<img  src="https://media.tenor.com/A5eDh9nWrqYAAAAd/working-from.gif" height="250px" align="right" />
 
 
 
