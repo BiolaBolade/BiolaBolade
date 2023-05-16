@@ -22,7 +22,7 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love reading. 
 - 👨‍💻 You can check out my [Medium](https://medium.com/@abiolaabolade1).
-
+![](https://komarev.com/ghpvc/?username=BiolaBolade&label=Visits)
 ## My Data Analytics Skillset:
 - Microsoft Excel
 - Power BI
