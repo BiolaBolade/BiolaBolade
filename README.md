@@ -42,7 +42,3 @@
 
 <!---giflink(https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif)--->
 
-----------------------------------
-## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiolaBolade&hide=java,css,Roff,Tex&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
